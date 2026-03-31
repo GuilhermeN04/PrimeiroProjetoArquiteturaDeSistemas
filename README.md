@@ -1,4 +1,4 @@
-# PrimeiroProjetoArquiteturaDeSistemas
+# PrimeiroProjetoDeArquiteturaDeSistemas
 Integrantes:
 Guilherme de Brito Nogueira
 Francisco Cesar da costa araujo
